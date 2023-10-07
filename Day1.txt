@@ -1,0 +1,20 @@
+GitHub
+------
+- Git areas : 
+
+	1) Working Directory 
+
+	2) Staging area 		
+		
+		to add the files to the staging area : git add file_name
+
+		but to add all files and changes in files at a time : git add
+
+	3) Local Repository : the clone of your original file
+
+	4) Remote Repository 
+
+
+- git clone adress_bar
+
+- git add file_name 
