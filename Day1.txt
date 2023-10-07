@@ -8,13 +8,22 @@ GitHub
 		
 		to add the files to the staging area : git add file_name
 
-		but to add all files and changes in files at a time : git add
+		but to add all files and changes in files at a time : git add .
 
 	3) Local Repository : the clone of your original file
 
+		to add it to the local repository : git commit -m "message"
+
 	4) Remote Repository 
 
+		to add to the remote repository : git push origin main
 
-- git clone adress_bar
 
-- git add file_name 
+
+git add file_name
+|
+git add .
+|
+git commit -m "message"
+|
+git push origin main
